@@ -1,0 +1,28 @@
+h2{
+  text-align: center;
+  color:#fff;
+}
+.container{
+  margin-top: 50px;
+}
+form{ 
+  text-align: center;
+  /* border:none; */
+  /* border-radius:15px/15px; */
+}
+.password{
+  margin-right: 45px;
+}
+
+body{ 
+  background: url(./asset/image1.jpg) ;
+  background-size:cover;
+  color: white;
+  background-repeat: no-repeat;
+  background-position:center center;
+  width:
+  /* text-align: center; */
+  /* margin-top: 150px; */
+  /* background-color: rgb(226, 44, 44); */  
+}
+
